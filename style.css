@@ -9,6 +9,16 @@ p {
     font-family: Arial;
 }
 
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
 a {
     text-decoration: none;
     color: white;
@@ -27,11 +37,13 @@ a {
     display: flex;
 }
 
-.menu li{
+.menu li {
     margin-left: 10px;
 }
 
-.menu li a{
+.menu li a {
     display: block;
     padding: 10px;
 }
+
+/* CSS FLEXBOX 1 */
